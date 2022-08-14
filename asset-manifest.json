@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BhavyaJain711/Freedom.git/static/css/main.073c9b0a.css",
+    "main.js": "/BhavyaJain711/Freedom.git/static/js/main.72565522.js",
+    "index.html": "/BhavyaJain711/Freedom.git/index.html",
+    "main.073c9b0a.css.map": "/BhavyaJain711/Freedom.git/static/css/main.073c9b0a.css.map",
+    "main.72565522.js.map": "/BhavyaJain711/Freedom.git/static/js/main.72565522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.72565522.js"
+  ]
+}
